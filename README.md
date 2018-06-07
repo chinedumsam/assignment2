@@ -10,5 +10,7 @@
 
 **datainsert.py** - This fragment was used to insert the sentimental result into elastic search.
 
+**load.sh**- This batch file was used to load the 3 scripts(extracvs.py,Sentimental.py,datainsert.py)
+
 
 
